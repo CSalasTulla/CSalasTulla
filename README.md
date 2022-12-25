@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CSalasTulla
+- 👀 I’m interested in Coding/Crypto/Sports/DJ
+- 🥰 I am a hard-working person with good values and a good sense of humor
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: carlos.salas.tulla@gmail.com
