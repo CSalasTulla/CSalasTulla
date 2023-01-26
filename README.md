@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Carlos Salas Tulla
+- 👋 Hi, I’m @Carlos Salas Tulla, a student athlete from Spain.
 - 👀 I’m interested in Coding/Crypto/Sports/DJ.
 - 🥰 I am a hard-working person with good values and a good sense of humor.
 - 🌱 I’m currently learning C++, I coursed in this languageObject-Oriented, Data Structures, Numerical-Methods and Competition Programing.
