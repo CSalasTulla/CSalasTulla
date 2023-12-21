@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Carlos Salas Tulla, a student-athlete from Spain.
 - 👀 I’m interested in Coding/Stocks/Fintech/Crypto/Sports/DJ.
 - 🥰 I am a hard-working person with good values and a good sense of humor.
-- 🌱 I’m currently learning C++ and Python. I have studied C++ Object-Oriented, Data Structures, Numerical Methods, Numerical Analysis, Computer Organization, Design and analysis of Algorithms, and Competition Programming.
+- 🌱 I’m currently learning C++ and Python. I have studied C++ Object-Oriented, Data Structures, Numerical Methods, Numerical Analysis, Computer Organization, Design and analysis of Algorithms, Computer Graphics, Computer Organization, Design and Analysis of Algorithms, and Competition Programming.
 - 📫 How to reach me: carlos.salas.tulla@gmail.com
